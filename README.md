@@ -30,5 +30,16 @@ docker run -d \
 http://localhost:3000
 
 
+---
+
+List models:
+```bash
+ollama list
+```
+
+List running models:
+```bash
+ollama ps
+```
 
 
