@@ -29,6 +29,10 @@ docker run -d \
 
 http://localhost:3000
 
+Cleanup:
+```bash
+docker volume rm open-webui
+```
 
 ---
 
