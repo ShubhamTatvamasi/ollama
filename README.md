@@ -37,6 +37,11 @@ List models:
 ollama list
 ```
 
+Pull the latest `deepseek-r1` model:
+```bash
+ollama pull deepseek-r1
+```
+
 List running models:
 ```bash
 ollama ps
