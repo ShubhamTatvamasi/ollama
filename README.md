@@ -46,6 +46,11 @@ Pull the latest `deepseek-r1` model:
 ollama pull deepseek-r1
 ```
 
+Delete the image:
+```bash
+ollama rm qwen3-coder:latest
+```
+
 List running models:
 ```bash
 ollama ps
