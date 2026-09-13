@@ -1,5 +1,19 @@
 # ollama
 
+Add helm repo:
+```bash
+helm repo add ollama https://otwld.github.io/ollama-helm/
+```
+
+Install ollama:
+```bash
+helm install ollama ollama/ollama \
+  --namespace ollama \
+  --create-namespace
+```
+
+---
+
 Setup ollama locally
 
 https://ollama.com/download
