@@ -18,6 +18,9 @@ Setup ollama locally
 
 https://ollama.com/download
 
+
+Models: https://ollama.com/search
+
 https://ollama.com/library/deepseek-r1
 
 Download deepseek model and run it locally:
